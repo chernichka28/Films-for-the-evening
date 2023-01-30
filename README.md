@@ -1,4 +1,4 @@
-# Films-for-the-evening
+# Films for the evening
 Return a random film according to the director you have chosen.
 
 Simple app on Ruby 3.1.2
