@@ -1,15 +1,13 @@
-# Films for the evening
-Return a random film according to the director you have chosen.
+# Фильм на вечер
+Возвращает случайный филььм по выбранному продюсеру.
 
-Simple app on Ruby 3.1.2
+Несложное приложение на Ruby 3.1.2
 
-Enjoy watching!
+## Использование
 
-## Using
-
-Run in your project folder:
+Для запуска выполните команду в папке проекта:
 ```
 ruby main.rb
 ```
 
-<sub>Educational project</sub>
+<sub>Учебный проект</sub>
